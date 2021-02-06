@@ -5,7 +5,7 @@ I'm an aspiring engineer currently based in LA. Recently graduated with a BS in 
 #### Info
 - 🏢 Currently seeking full-time opportunities! So if you know a little somethin' somethin' about an opportunity, hit a brother up!
 
-- 🛠 Technologies I use regularly includes `.js`, `.ts`, `.py`, `css`, `html`
+- 🛠 Technologies I use regularly includes `.js`, `.ts`, `.py`, `.css`, `.html`
 
 - 🚀 Currently learning **Redis** and **GraphQL**
 
